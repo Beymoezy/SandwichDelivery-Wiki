@@ -195,15 +195,6 @@ The message included is incredibly important to me(Fires) and shouldn't be disre
 * * Usually playing video games, listening to music and NOT WATCHING ANIME SINCE IM NOT A WEEB (I love anime!!!)
 * * **ONLY PING IF:** Reporting bugs, bot downtime(please do this `report-error`, check for existing pings), to annoy Fires
 
-* Lemon#8973
-* * Bot and Server Administrator, incredibly helpful (I LIKE ANIME TOO)
-* * Stares at computer all day
-* * **ONLY PING IF:** Bugs/errors, general help, blacklisting, hug.
-
-* Irizu#7270
-* * Bot and Server Administrator, Lemon's ~~assistant~~ minion. (SHE LIKES ANIME AS WELL)
-* * **ONLY PING IF:** General help, blacklisting, cold glare, sass.
-
 * Ruhe#0653
 * * Bot and Server Administrator, Fires' Mom (anime succ)
 * * **ONLY PING IF:** Bugs/errors, general help, blacklisting, anything.
