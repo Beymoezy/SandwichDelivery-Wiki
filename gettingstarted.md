@@ -18,13 +18,15 @@ This page is a guide to starting out as an Artist and learning what to do and wh
 
 * Lemon - Thank you for your constant hard work and management of the bot, you've really kept this project alive for me with the great guide photos and all. Keep up the good stuff 👍 
 
-* Melon - Thanks for doing all the management regarding keeping the Artists' in check
-
 * Andrex and Chez - Thank you for being longtime Sandwich Artists, thank you for sticking around through all the buggy shit fest releases I have made.
 
 * Auxesis - SQLite system
 
 * JeuxJeux20 and LewisTehMinerz - Thank you for your lovely programming help, has kept things running smoothly :)
+
+* Our patrons and donators.
+* * Cy Network
+
 
 * All past members of the Sandwich Tavern, Sandwich Bar, Firecord, Casual Corps and all the other servers and renames we've had since August. Discord has been a wonderful thing and has kept me extremely busy these last few months, this all started as a small server to talk to people who were interested in my Source Film Maker posters but soon grew to a bigger, larger and more diverse community of people I couldn't thank enough for all their help.
 
