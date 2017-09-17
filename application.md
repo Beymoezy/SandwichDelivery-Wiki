@@ -15,5 +15,3 @@ How long have you used the sandwich bot?
 How old are you? and what is your first name? - REQUIRED
 
 Timezone?
-
-Cashier or Artist(delivery man)?
